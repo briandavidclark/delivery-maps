@@ -70,6 +70,12 @@ const apts = [
 		address: '17655 Henderson Pass',
 		map: 'img/Sedona Ranch.svg',
 		codes: []
+	},
+	{
+		name: 'Canyon Oaks',
+		address: '16500 Henderson Pass',
+		map: 'img/Canyon Oaks.svg',
+		codes: []
 	}
 ];
 

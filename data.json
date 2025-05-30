@@ -1,0 +1,221 @@
+[
+	{
+		"name": "Sendero Ridge",
+		"isApartment": true,
+		"address": "2424 Gold Canyon",
+		"map": "img/Sendero Ridge.svg",
+		"codes": [
+			"8769"
+		]
+	},
+	{
+		"name": "Hillcreste",
+		"isApartment": true,
+		"address": "1570 Thousand Oaks Dr",
+		"map": "img/Hillcreste.svg",
+		"codes": []
+	},
+	{
+		"name": "Thousand Oaks Condominiums",
+		"isApartment": true,
+		"address": "2255 Thousand Oaks Dr",
+		"map": "",
+		"codes": [
+			"#0422",
+			"#344"
+		]
+	},
+	{
+		"name": "The Redland",
+		"isApartment": true,
+		"address": "18979 Redland Rd",
+		"map": "",
+		"codes": [
+			"1228"
+		]
+	},
+	{
+		"name": "Estates of Northwoods",
+		"isApartment": true,
+		"address": "17635 Henderson Pass",
+		"map": "img/Estates of Northwoods.svg",
+		"codes": [
+			"#22222"
+		]
+	},
+	{
+		"name": "Dwell at Legacy",
+		"isApartment": true,
+		"address": "1810 E Sonterra Blvd",
+		"map": "img/Dwell at Legacy.svg",
+		"codes": [
+			"1810"
+		]
+	},
+	{
+		"name": "Altamonte",
+		"isApartment": true,
+		"address": "12470 Starcrest Dr",
+		"map": "img/Altamonte.svg",
+		"codes": [
+			"403",
+			"#3160"
+		]
+	},
+	{
+		"name": "5 Fifty Apartments",
+		"isApartment": true,
+		"address": "550 Heimer Rd",
+		"map": "img/5Fifty.svg",
+		"codes": [
+			"4545"
+		]
+	},
+	{
+		"name": "Ashley Oaks",
+		"isApartment": true,
+		"address": "16400 Henderson Pass",
+		"map": "",
+		"codes": [
+			"#1212"
+		]
+	},
+	{
+		"name": "Summit at Henderson Pass",
+		"isApartment": true,
+		"address": "16465 Henderson Pass",
+		"map": "",
+		"codes": [
+			"0253"
+		]
+	},
+	{
+		"name": "Emerald Village",
+		"isApartment": true,
+		"address": "3203 N Loop 1604 E",
+		"map": "",
+		"codes": [
+			"6853#"
+		]
+	},
+	{
+		"name": "Sedona Ranch",
+		"isApartment": true,
+		"address": "17655 Henderson Pass",
+		"map": "img/Sedona Ranch.svg",
+		"codes": []
+	},
+	{
+		"name": "Canyon Oaks",
+		"isApartment": true,
+		"address": "16500 Henderson Pass",
+		"map": "img/Canyon Oaks.svg",
+		"codes": []
+	},
+	{
+		"name": "Hill Country Villas",
+		"isApartment": false,
+		"address": "Trent St",
+		"map": "",
+		"codes": [
+			"#8335"
+		]
+	},
+	{
+		"name": "San Pedro Mobile Home Park",
+		"isApartment": false,
+		"address": "San Pedro",
+		"map": "img/San Pedro Mobile Home Park.svg",
+		"codes": []
+	},
+	{
+		"name": "Redland Estates",
+		"isApartment": false,
+		"address": "Redland",
+		"map": "",
+		"codes": [
+			"#3433",
+			"#9258"
+		]
+	},
+	{
+		"name": "Redland Heights",
+		"isApartment": false,
+		"address": "Redland",
+		"map": "",
+		"codes": [
+			"#9736",
+			"#4181",
+			"#3031"
+		]
+	},
+	{
+		"name": "Redland Ranch",
+		"isApartment": false,
+		"address": "Redland",
+		"map": "",
+		"codes": [
+			"#4548",
+			"#4140",
+			"#0597",
+			"#4584",
+			"#6873"
+		]
+	},
+	{
+		"name": "St. James Place",
+		"isApartment": false,
+		"address": "Bulverde",
+		"map": "",
+		"codes": [
+			"#1225",
+			"#7330"
+		]
+	},
+	{
+		"name": "Pallatium Villas",
+		"isApartment": false,
+		"address": "Jones Maltsberger",
+		"map": "",
+		"codes": [
+			"#1144"
+		]
+	},
+	{
+		"name": "Scattered Oaks",
+		"isApartment": false,
+		"address": "Jones Maltsberger",
+		"map": "",
+		"codes": [
+			"2329"
+		]
+	},
+	{
+		"name": "Thousand Oaks Forest",
+		"isApartment": false,
+		"address": "Thousand Oaks",
+		"map": "",
+		"codes": [
+			"#1113",
+			"#4350"
+		]
+	},
+	{
+		"name": "Las Brisas Townhomes",
+		"isApartment": false,
+		"address": "San Pedro",
+		"map": "",
+		"codes": [
+			"#3399"
+		]
+	},
+	{
+		"name": "The Bluffs of Henderson Pass",
+		"isApartment": false,
+		"address": "Henderson Pass",
+		"map": "",
+		"codes": [
+			"#8750"
+		]
+	}
+]

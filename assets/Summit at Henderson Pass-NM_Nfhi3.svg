@@ -31,7 +31,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" /><rect
+     inkscape:current-layer="layer9" /><rect
      style="fill:#1a1a1a;stroke-width:32.4;stroke-linejoin:round"
      id="rect1"
      width="2057.3333"
@@ -125,13 +125,13 @@
          y="-529.78351">Henderson Pass</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:64px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:32.4;stroke-linejoin:round"
-       x="1543.4813"
-       y="993.81543"
+       x="1560.6583"
+       y="1006.0848"
        id="text29"><tspan
          sodipodi:role="line"
          id="tspan29"
-         x="1543.4813"
-         y="993.81543">?</tspan></text><text
+         x="1560.6583"
+         y="1006.0848">1</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:64px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:32.4;stroke-linejoin:round"
        x="1356.9875"
@@ -140,7 +140,7 @@
          sodipodi:role="line"
          id="tspan30"
          x="1356.9875"
-         y="620.82788">?</tspan></text><text
+         y="620.82788">2</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:64px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:32.4;stroke-linejoin:round"
        x="1163.1321"
@@ -149,7 +149,7 @@
          sodipodi:role="line"
          id="tspan31"
          x="1163.1321"
-         y="463.78055">?</tspan></text><text
+         y="463.78055">19</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:64px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:32.4;stroke-linejoin:round"
        x="826.95264"
@@ -158,7 +158,7 @@
          sodipodi:role="line"
          id="tspan32"
          x="826.95264"
-         y="247.84041">?</tspan></text><text
+         y="247.84041">18</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:64px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:32.4;stroke-linejoin:round"
        x="765.60596"
@@ -167,7 +167,7 @@
          sodipodi:role="line"
          id="tspan33"
          x="765.60596"
-         y="561.93518">?</tspan></text><text
+         y="561.93518">16</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:64px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:32.4;stroke-linejoin:round"
        x="944.73816"
@@ -176,7 +176,7 @@
          sodipodi:role="line"
          id="tspan34"
          x="944.73816"
-         y="745.97504">?</tspan></text><text
+         y="745.97504">17</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:64px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:32.4;stroke-linejoin:round"
        x="674.81299"
@@ -185,7 +185,7 @@
          sodipodi:role="line"
          id="tspan35"
          x="674.81299"
-         y="711.62091">?</tspan></text><text
+         y="711.62091">15</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:64px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:32.4;stroke-linejoin:round"
        x="561.93512"
@@ -212,7 +212,7 @@
          sodipodi:role="line"
          id="tspan38"
          x="907.93011"
-         y="1055.1621">?</tspan></text><text
+         y="1055.1621">13</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:64px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:32.4;stroke-linejoin:round"
        x="785.23688"
@@ -221,7 +221,7 @@
          sodipodi:role="line"
          id="tspan39"
          x="785.23688"
-         y="1195.0325">?</tspan></text><text
+         y="1195.0325">12</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:64px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:32.4;stroke-linejoin:round"
        x="691.98999"
@@ -248,7 +248,7 @@
          sodipodi:role="line"
          id="tspan42"
          x="1231.8403"
-         y="996.26935">?</tspan></text><text
+         y="996.26935">3</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:64px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:32.4;stroke-linejoin:round"
        x="1337.3567"
@@ -257,7 +257,7 @@
          sodipodi:role="line"
          id="tspan43"
          x="1337.3567"
-         y="1197.4863">?</tspan></text><text
+         y="1197.4863">4</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:64px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:32.4;stroke-linejoin:round"
        x="1793.7755"
@@ -266,7 +266,7 @@
          sodipodi:role="line"
          id="tspan44"
          x="1793.7755"
-         y="1383.98">?</tspan></text><text
+         y="1383.98">5</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:64px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:32.4;stroke-linejoin:round"
        x="1582.743"
@@ -275,7 +275,7 @@
          sodipodi:role="line"
          id="tspan45"
          x="1582.743"
-         y="1457.5959">?</tspan></text><text
+         y="1457.5959">6</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:64px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:32.4;stroke-linejoin:round"
        x="1150.8628"
@@ -293,7 +293,7 @@
          sodipodi:role="line"
          id="tspan47"
          x="1285.8254"
-         y="1577.8354">?</tspan></text><text
+         y="1577.8354">20</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:64px;line-height:1;font-family:Sans;-inkscape-font-specification:'Sans, Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:32.4;stroke-linejoin:round"
        x="873.57605"

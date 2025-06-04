@@ -255,5 +255,12 @@
 		"address": "250 Heimer Rd",
 		"map": "Arbor Hill.svg",
 		"codes": []
+	},
+	{
+		"name": "Sunset Canyon",
+		"isApartment": true,
+		"address": "2170 Thousand Oaks Dr",
+		"map": "Sunset Canyon.svg",
+		"codes": []
 	}
 ]

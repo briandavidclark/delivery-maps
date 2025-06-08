@@ -135,7 +135,8 @@
 		"map": "",
 		"codes": [
 			"#3433",
-			"#9258"
+			"#9258",
+			"#0822"
 		]
 	},
 	{
@@ -275,6 +276,20 @@
 		"isApartment": true,
 		"address": "2650 Thousand Oaks Dr",
 		"map": "Connemara Estates.svg",
+		"codes": []
+	},
+	{
+		"name": "Summit of Thousand Oaks",
+		"isApartment": true,
+		"address": "1550 Thousand Oaks Dr",
+		"map": "Summit of Thousand Oaks.svg",
+		"codes": ["1983"]
+	},
+	{
+		"name": "Burning Tree",
+		"isApartment": true,
+		"address": "14438 Jones Maltsberger Rd",
+		"map": "Burning Tree.svg",
 		"codes": []
 	}
 ]

@@ -31,7 +31,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" /><rect
+     inkscape:current-layer="layer11" /><rect
      style="fill:#1a1a1a;stroke-width:32.4;stroke-linejoin:round"
      id="rect1"
      width="1817.3333"
@@ -269,7 +269,16 @@
          sodipodi:role="line"
          id="tspan35"
          x="227.68912"
-         y="1583.8154">11</tspan></text></g><path
+         y="1583.8154">11</tspan></text><text
+       xml:space="preserve"
+       style="font-size:48px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke-width:46.8;stroke-linejoin:round"
+       x="576.62341"
+       y="87.877693"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="576.62341"
+         y="87.877693">Apartment numbers are building + 3-digits</tspan></text></g><path
      id="rect1-5"
      style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;stroke-width:0.251266;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="m 1564.9129,102.3986 c -4.4938,0 -8.2109,3.7175 -8.2109,8.2113 v 21.8993 c 2.1929,0 4.3256,0.012 6.3715,0.034 V 110.61 c 0,-1.0743 0.7651,-1.8398 1.8394,-1.8398 h 34.5771 c 1.0742,0 1.8393,0.7655 1.8393,1.8398 v 56.3347 c 0,1.0743 -0.7651,1.8399 -1.8393,1.8399 h -34.5771 c -1.0743,0 -1.8394,-0.7656 -1.8394,-1.8399 v -21.9332 c -2.0459,0.022 -4.1786,0.034 -6.3715,0.034 v 21.8992 c 0,4.4938 3.7171,8.2112 8.2109,8.2112 h 34.5771 c 4.4938,0 8.2108,-3.7174 8.2108,-8.2112 V 110.61 c 0,-4.4938 -3.717,-8.2113 -8.2108,-8.2113 z m 15.0771,27.2001 0.01,6.0285 h -23.3482 v 6.3973 h 23.3579 l 0.01,6.0285 15.9675,-9.2518 z" /></svg>

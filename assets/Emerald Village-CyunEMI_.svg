@@ -160,7 +160,16 @@
          sodipodi:role="line"
          id="tspan13-8"
          x="2478.6345"
-         y="1678.0228">7</tspan></text></g><path
+         y="1678.0228">7</tspan></text><text
+       xml:space="preserve"
+       style="font-size:64px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke-width:46.8;stroke-linejoin:round"
+       x="1247.8184"
+       y="111.00225"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="1247.8184"
+         y="111.00225">Apartment numbers are building + 3-digits</tspan></text></g><path
      id="rect1-3"
      style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#ffffff;stroke-width:0.259478;stroke-linejoin:round;enable-background:accumulate;stop-color:#000000"
      d="m 208.65364,1783.0315 c -4.64065,0 -8.47918,3.839 -8.47918,8.4797 v 22.6149 c 2.26454,0 4.46696,0.012 6.57978,0.035 v -22.65 c 0,-1.1094 0.79005,-1.9 1.8994,-1.9 h 35.70715 c 1.10941,0 1.89946,0.7906 1.89946,1.9 v 58.1758 c 0,1.1094 -0.79005,1.8999 -1.89946,1.8999 h -35.70715 c -1.10935,0 -1.8994,-0.7905 -1.8994,-1.8999 v -22.65 c -2.11282,0.023 -4.31524,0.035 -6.57978,0.035 v 22.615 c 0,4.6407 3.83853,8.4795 8.47918,8.4795 h 35.70715 c 4.64065,0 8.47918,-3.8388 8.47918,-8.4795 v -58.1758 c 0,-4.6407 -3.83853,-8.4797 -8.47918,-8.4797 z m 15.56988,28.0891 0.01,6.2255 h -24.11125 v 6.6063 h 24.12128 l 0.01,6.2256 16.48938,-9.5542 z" /></svg>

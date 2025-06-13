@@ -65,10 +65,10 @@
 		]
 	},
 	{
-		"name": "5 Fifty Apartments",
+		"name": "5 Fifty",
 		"isApartment": true,
 		"address": "550 Heimer Rd",
-		"map": "5Fifty.svg",
+		"map": "5 Fifty.svg",
 		"codes": [
 			"4545"
 		]
@@ -285,7 +285,9 @@
 		"isApartment": true,
 		"address": "1550 Thousand Oaks Dr",
 		"map": "Summit of Thousand Oaks.svg",
-		"codes": ["1983"]
+		"codes": [
+			"1983"
+		]
 	},
 	{
 		"name": "Burning Tree",
@@ -302,5 +304,12 @@
 		"codes": [
 			"1777"
 		]
+	},
+	{
+		"name": "The Preston",
+		"isApartment": true,
+		"address": "3200 Thousand Oaks Dr",
+		"map": "The Preston.svg",
+		"codes": []
 	}
 ]

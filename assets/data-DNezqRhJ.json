@@ -120,7 +120,8 @@
 		"address": "Trent St",
 		"map": "",
 		"codes": [
-			"#8335"
+			"#8335",
+			"#9956"
 		]
 	},
 	{
@@ -241,7 +242,9 @@
 		"isApartment": true,
 		"address": "3110 Thousand Oaks Dr",
 		"map": "White Rock Apartments.svg",
-		"codes": []
+		"codes": [
+			"#0126"
+		]
 	},
 	{
 		"name": "The Park at Stone Ridge",

@@ -33,6 +33,7 @@
 		"codes": [
 			"1228",
 			"8037",
+			"5232",
 			"6523"
 		]
 	},
@@ -105,7 +106,9 @@
 		"isApartment": true,
 		"address": "17655 Henderson Pass",
 		"map": "Sedona Ranch.svg",
-		"codes": []
+		"codes": [
+			"#2222"
+		]
 	},
 	{
 		"name": "Canyon Oaks",
@@ -165,6 +168,7 @@
 			"#4140",
 			"#0597",
 			"#4584",
+			"#2752",
 			"#6873"
 		]
 	},

@@ -13,7 +13,9 @@
 		"isApartment": true,
 		"address": "1570 Thousand Oaks Dr",
 		"map": "Hillcreste.svg",
-		"codes": []
+		"codes": [
+			"1570"
+		]
 	},
 	{
 		"name": "Thousand Oaks Condominiums",
@@ -89,7 +91,8 @@
 		"address": "16465 Henderson Pass",
 		"map": "Summit at Henderson Pass.svg",
 		"codes": [
-			"0253"
+			"0253",
+			"1284"
 		]
 	},
 	{

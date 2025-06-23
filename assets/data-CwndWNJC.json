@@ -331,5 +331,14 @@
 		"address": "1935 Broken Oak",
 		"map": "Broken Oak Townhomes.svg",
 		"codes": []
+	},
+	{
+		"name": "Remington Ranch",
+		"isApartment": true,
+		"address": "12511 Jones Maltsberger Rd",
+		"map": "Remington Ranch.svg",
+		"codes": [
+			"2777"
+		]
 	}
 ]

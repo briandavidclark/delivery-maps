@@ -229,6 +229,7 @@
 		"map": "",
 		"codes": [
 			"#8750",
+			"#2384",
 			"#1048"
 		]
 	},
@@ -340,5 +341,19 @@
 		"codes": [
 			"2777"
 		]
+	},
+	{
+		"name": "Stratton Park",
+		"isApartment": true,
+		"address": "12324 Starcrest Dr",
+		"map": "Stratton Park.svg",
+		"codes": []
+	},
+	{
+		"name": "Santa Fe Condo Apartments",
+		"isApartment": true,
+		"address": "12315 Jones Maltsberger Rd",
+		"map": "Santa Fe Condo Apartments.svg",
+		"codes": []
 	}
 ]

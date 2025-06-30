@@ -101,9 +101,7 @@
 		"isApartment": true,
 		"address": "3203 N Loop 1604 E",
 		"map": "Emerald Village.svg",
-		"codes": [
-			"6853#"
-		]
+		"codes": []
 	},
 	{
 		"name": "Sedona Ranch",
@@ -356,5 +354,14 @@
 		"address": "12315 Jones Maltsberger Rd",
 		"map": "Santa Fe Condo Apartments.svg",
 		"codes": []
+	},
+	{
+		"name": "Pallatium Villas",
+		"isApartment": false,
+		"address": "Jones Maltsberger",
+		"map": "",
+		"codes": [
+			"#1010"
+		]
 	}
 ]

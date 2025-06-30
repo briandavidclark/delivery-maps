@@ -190,7 +190,8 @@
 		"address": "Jones Maltsberger",
 		"map": "",
 		"codes": [
-			"#1144"
+			"#1144",
+			"#1010"
 		]
 	},
 	{
@@ -354,14 +355,5 @@
 		"address": "12315 Jones Maltsberger Rd",
 		"map": "Santa Fe Condo Apartments.svg",
 		"codes": []
-	},
-	{
-		"name": "Pallatium Villas",
-		"isApartment": false,
-		"address": "Jones Maltsberger",
-		"map": "",
-		"codes": [
-			"#1010"
-		]
 	}
 ]

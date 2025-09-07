@@ -102,7 +102,7 @@
 		"isApartment": true,
 		"address": "3203 N Loop 1604 E",
 		"map": "Emerald Village.svg",
-		"codes": []
+		"codes": ["6853#"]
 	},
 	{
 		"name": "Sedona Ranch",
@@ -365,5 +365,12 @@
 		"address": "12315 Jones Maltsberger Rd",
 		"map": "Santa Fe Condo Apartments.svg",
 		"codes": []
+	},
+	{
+		"name": "The Standard At Legacy",
+		"isApartment": true,
+		"address": "1938 E Sonterra Blvd",
+		"map": "",
+		"codes": ["On panel at front entrance, hit \"delivery\" and enter 1938"]
 	}
 ]

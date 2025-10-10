@@ -102,7 +102,9 @@
 		"isApartment": true,
 		"address": "3203 N Loop 1604 E",
 		"map": "Emerald Village.svg",
-		"codes": ["6853#"]
+		"codes": [
+			"6853#"
+		]
 	},
 	{
 		"name": "Sedona Ranch",
@@ -371,6 +373,17 @@
 		"isApartment": true,
 		"address": "1938 E Sonterra Blvd",
 		"map": "",
-		"codes": ["On panel at front entrance, hit \"delivery\" and enter 1938"]
+		"codes": [
+			"On panel at front entrance, hit \"delivery\" and enter 1938"
+		]
+	},
+	{
+		"name": "Calder Park Condominiums",
+		"isApartment": true,
+		"address": "2718 Old Field Dr",
+		"map": "Calder Park Condominiums.svg",
+		"codes": [
+			"1379"
+		]
 	}
 ]

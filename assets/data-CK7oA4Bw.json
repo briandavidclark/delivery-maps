@@ -385,5 +385,14 @@
 		"codes": [
 			"1379"
 		]
+	},
+	{
+		"name": "Parkside",
+		"isApartment": false,
+		"address": "Jones Maltsberger",
+		"map": "",
+		"codes": [
+			"#8257"
+		]
 	}
 ]
